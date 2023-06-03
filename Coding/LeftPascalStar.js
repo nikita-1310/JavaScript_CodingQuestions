@@ -1,4 +1,3 @@
-
 var n = 5;
 var str = "";
 for(let i=1; i<=n; i++){
